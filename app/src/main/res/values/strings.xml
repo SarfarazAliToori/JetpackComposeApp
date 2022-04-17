@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetpackComposeApp</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_layouts_in_compose">LayoutsInCompose</string>
+</resources>
